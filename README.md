@@ -17,7 +17,7 @@
 | Course Title           | Trustworthy Machine Learning                                                                                                                                                                                                                                  |
 | Course Number          | CAP6938                                                                                                                                                                                                                                                       |
 | Semester               | Fall 2025                                                                                                                                                                                                                                                     |
-| Assignment Title       | White-Box Attack (FGSM)                                                                                                                                                                                                                                       |
+| Assignment Title       | Assignment 1: White-Box Attack (FGSM)                                                                                                                                                                                                                         |
 | Assignment Description | Implement and evaluate FGSM attacks under an L-infinity threat model on two architectures (ResNet-18, ViT) and two datasets (MNIST, CIFAR-10). Compare targeted vs. untargeted objectives and report robustness metrics with clear, reproducible experiments. |
 
 ---
